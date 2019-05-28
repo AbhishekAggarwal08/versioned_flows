@@ -70,7 +70,7 @@
       },
       "properties" : {
         "Create Missing Directories" : "true",
-        "Directory" : "/home/impadmin1/AbhishekBackup/NIFI/nifi-1.9.1/data-out2/",
+        "Directory" : "/home/impadmin1/AbhishekBackup/NIFI/nifi-1.9.1/data-out3/",
         "Conflict Resolution Strategy" : "fail"
       },
       "propertyDescriptors" : {
